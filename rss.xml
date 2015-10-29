@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[AVITAI]]></title>
         <description><![CDATA[AVITAI]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/avitai/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 29 Oct 2015 20:25:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 29 Oct 2015 22:24:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/avitai/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AVITAI a small business in the USA you can TRUST]]></title>
             <description><![CDATA[<article><h1>AVITAI a small business in the USA you can TRUST</h1><p>About our small business and its first product. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d49add0-c510-45c3-ad27-bf3c68560110.JPG"></article>]]></description>
-            <link>undefinedavitai-a-small-business-in-the-usa-you-can-trust/index.html</link>
+            <link>https://thegrid.ai/avitai/avitai-a-small-business-in-the-usa-you-can-trust/index.html</link>
             <guid isPermaLink="false">95f440dc-7b43-4d0e-8185-08d709cf0189</guid>
             <pubDate>Thu, 29 Oct 2015 20:25:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We have one goal as a Small Business ]]></title>
+            <description><![CDATA[<article><h1>We have one goal as a Small Business </h1><p>Find out what makes us your choice for quality products</p></article>]]></description>
+            <link>https://thegrid.ai/avitai/we-have-one-goal-as-a-small-business/index.html</link>
+            <guid isPermaLink="false">169e975d-b88f-4308-b71e-9a97ae591a78</guid>
+            <pubDate>Thu, 29 Oct 2015 22:23:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
