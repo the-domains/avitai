@@ -1,0 +1,23 @@
+name: AVITAI
+favicon: null
+layout_spectrum: 0.992828629212454
+typography_spectrum: 0.9288347479887307
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.25593352131545544
+  lightness: 0.81529505783692
+  saturation: 0.7404198187869042
+  rhythmicContrast: 0.4697878865990788
+purpose: []
