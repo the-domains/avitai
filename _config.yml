@@ -1,6 +1,6 @@
 name: AVITAI
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.5
 typography_spectrum: 0.74572
 title: AVITAI
 cta:
@@ -22,7 +22,7 @@ color:
     - '#ce1c00'
     - '#38b471'
     - '#f38711'
-  brandStrength: 0.1875
+  brandStrength: 0.25
   lightness: 0.81529505783692
   saturation: 0.8125
   rhythmicContrast: 0.4697878865990788
